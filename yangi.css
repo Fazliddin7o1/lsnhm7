@@ -1,0 +1,51 @@
+body{
+    display:flex;
+    background-color: rgb(93, 30, 211);
+    justify-content: center;
+    align-content: center;
+}
+
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.name{
+    border-radius: 15px;
+    font-size:18px;
+
+}
+
+.Email{
+    width:460px;
+    font-size: 18px;
+    border-radius: 20px;;
+}
+
+
+.box{
+    background-color:black;
+    border-radius:30px;
+    width:400;
+    height:500px;
+    margin:50px;
+    padding:30px;
+}
+.n{
+    color:white;
+}
+
+area{
+  font-size: 50px;
+ margin:10px;
+}
+
+.submit{
+    background-color:rgb(255, 183, 77);
+    border-radius: 10px;
+    padding:10px;
+    color:white;
+    width:150px;
+    margin-top:10px;
+}
